@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e16ea1d8.css",
+    "main.js": "/static/js/main.b79ee60b.js",
+    "static/js/787.34e51cd9.chunk.js": "/static/js/787.34e51cd9.chunk.js",
+    "static/media/initial-bkg.png": "/static/media/initial-bkg.99877fbaf5b08e827810.png",
+    "static/media/bkg-hero1.png": "/static/media/bkg-hero1.ebf6638e581b826a28dc.png",
+    "static/media/bkg-hero3.png": "/static/media/bkg-hero3.23593bdac7507f57aa48.png",
+    "static/media/bkg-hero2.png": "/static/media/bkg-hero2.58fb23188f80c0412b25.png",
+    "static/media/bkg-vantagens.png": "/static/media/bkg-vantagens.58fb23188f80c0412b25.png",
+    "static/media/carPurple.png": "/static/media/carPurple.e688ae7a6c0c9b3f9af5.png",
+    "static/media/logo-despachante.png": "/static/media/logo-despachante.f99c01f3918c15aac241.png",
+    "index.html": "/index.html",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.e16ea1d8.css.map": "/static/css/main.e16ea1d8.css.map",
+    "main.b79ee60b.js.map": "/static/js/main.b79ee60b.js.map",
+    "787.34e51cd9.chunk.js.map": "/static/js/787.34e51cd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e16ea1d8.css",
+    "static/js/main.b79ee60b.js"
+  ]
+}
